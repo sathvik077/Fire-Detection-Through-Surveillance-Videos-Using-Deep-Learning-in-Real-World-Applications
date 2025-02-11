@@ -32,7 +32,7 @@ Webcam
 
 # Publication
 
-https://www.researchgate.net/publication/368759615_Fire_Detection_Through_Surveillance_Videos_Using_Deep_Learning_in_Real-World_Applications
+[Click here to view the publication](https://www.researchgate.net/publication/368759615_Fire_Detection_Through_Surveillance_Videos_Using_Deep_Learning_in_Real-World_Applications)
 
 # Contributers
 1. Sathvik Chowdary Samineni
